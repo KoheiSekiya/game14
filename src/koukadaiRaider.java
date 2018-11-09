@@ -11,4 +11,4 @@ public class koukadaiRaider {
         Move mv = new Move();
         Battle bt = new Battle();
     }
-}
+}//yeah
